@@ -1,0 +1,11 @@
+
+serviceBaseUrls:
+
+        baseURL_abcService:
+        baseURL_xyzService:
+
+endpoints:
+
+        endpoint_123:
+        endpoint_456:
+
