@@ -1,6 +1,3 @@
-/**
- * Copyright 2017 Mercedes Benz Research & Development, A Daimler Company. All rights reserved.*/
-
 package com.sample.cucumber.hooks;
 
 import com.sample.utilities.CucumberUtils;
