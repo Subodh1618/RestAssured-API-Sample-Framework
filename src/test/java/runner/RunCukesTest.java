@@ -25,8 +25,8 @@ features = {
 
  ,tags = {"@Run"}
 
- ,glue = {  "com.daimler.daivb.mdc.cucumber.hooks",
-			"com.daimler.daivb.mdc.cucumber.stepdefinition"
+ ,glue = {  "com.cucumber.hooks",
+			"com.cucumber.stepdefinition"
 			
 		}
 )
