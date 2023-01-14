@@ -15,7 +15,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 @CucumberOptions(
 		
 features = { 			 
-				 "src/main/java/com/daimler/daivb/mdc/cucumber/feature/NTG6E2ETest.feature",
+				 "src/main/java/sample/cucumber/feature/SampleTest.feature",
 				 
 				 
 			}
